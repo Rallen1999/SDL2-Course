@@ -1,0 +1,3 @@
+/home/rache/Projects/C++/SDL2-Course/HelloSDL/build/CMakeFiles/HelloSDL.dir
+/home/rache/Projects/C++/SDL2-Course/HelloSDL/build/CMakeFiles/edit_cache.dir
+/home/rache/Projects/C++/SDL2-Course/HelloSDL/build/CMakeFiles/rebuild_cache.dir

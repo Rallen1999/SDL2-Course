@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/HelloSDL.dir/src/main.cpp.o -o HelloSDL  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL3.so.0.1.2 
