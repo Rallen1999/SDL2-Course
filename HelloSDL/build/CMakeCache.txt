@@ -192,6 +192,9 @@ HelloSDL_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 HelloSDL_SOURCE_DIR:STATIC=/home/rache/Projects/C++/SDL2-Course/HelloSDL
 
+//The directory containing a CMake configuration file for SDL2.
+SDL2_DIR:PATH=/usr/local/lib/cmake/SDL2
+
 //The directory containing a CMake configuration file for SDL3.
 SDL3_DIR:PATH=/usr/local/lib/cmake/SDL3
 

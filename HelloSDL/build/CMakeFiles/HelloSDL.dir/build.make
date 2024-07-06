@@ -92,7 +92,7 @@ HelloSDL_EXTERNAL_OBJECTS =
 
 HelloSDL: CMakeFiles/HelloSDL.dir/src/main.cpp.o
 HelloSDL: CMakeFiles/HelloSDL.dir/build.make
-HelloSDL: /usr/local/lib/libSDL3.so.0.1.2
+HelloSDL: /usr/local/lib/libSDL2.so
 HelloSDL: CMakeFiles/HelloSDL.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rache/Projects/C++/SDL2-Course/HelloSDL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable HelloSDL"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/HelloSDL.dir/link.txt --verbose=$(VERBOSE)
